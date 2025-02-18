@@ -16,7 +16,7 @@ Platform: Windows OS
 IDE: Visual Studio Code
 Installation & Usage
 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Misba810/aictesteganography
 cd aictesteganography
 
 2. Install Dependencies
